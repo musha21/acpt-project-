@@ -39,6 +39,7 @@ public class CoupleMatch {
 
         else if(bage==gage){
             System.out.println(" think twic");
+            System.out.println("helo");
 
         }
 
