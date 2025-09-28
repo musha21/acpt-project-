@@ -38,7 +38,8 @@ public class CoupleMatch {
         }
 
         else if(bage==gage){
-            System.out.println(" think twice");
+            System.out.println(" think twic");
+
         }
 
         else{
