@@ -18,7 +18,7 @@ public class Test {
 
         System.out.println("Average marks -"+(mathsMark+physicsMark+chemistryMark)/3);
 
-
+        System.out.println("hiii");
 
 
 

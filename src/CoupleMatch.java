@@ -38,11 +38,14 @@ public class CoupleMatch {
         }
 
         else if(bage==gage){
-            System.out.println(" think twice");
+            System.out.println(" think twic");
+            System.out.println("helo");
+
         }
 
         else{
             System.out.println(" don't  marry ");
+            System.out.println("hii");
         }
     }
 }
