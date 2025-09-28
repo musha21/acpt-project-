@@ -45,6 +45,7 @@ public class CoupleMatch {
 
         else{
             System.out.println(" don't  marry ");
+            System.out.println("hii");
         }
     }
 }
