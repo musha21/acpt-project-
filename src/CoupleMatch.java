@@ -12,6 +12,8 @@ public class CoupleMatch {
 
         if (bage>gage){
 
+
+
             System.out.print("give boy name - ");
             String boy = scan.next();
 
